@@ -40,7 +40,7 @@ body {
     width: 100%;
     max-width: 450px;
     height: 75vh;
-    background: linear-gradient(135deg, #1a73e8, #4285f4, #76a7fa);
+    background: linear-gradient(135deg, #1b5e20, #43a047, #a5d6a7);
     backdrop-filter: blur(12px);
     border-radius: 25px;
     box-shadow: 0 8px 20px rgba(0,0,0,0.3);
